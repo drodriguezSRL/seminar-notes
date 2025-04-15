@@ -13,8 +13,9 @@ They’re organized by major topics, usually based on whatever problems I’m wo
 >These notes are mainly meant for me, but I've made them public in case they might be helpful to someone else down the line.
 
 ## Table of topics
-- [Verifying estimate confidence](#verifying-estimate-confidence)
+- [Uncertainty estimation](#uncertainty-estimation)
 
 
-## Verifying estimate confidence
+## Uncertainty estimation 
+(when to know when we don't know... / how confident are we on our latest estimates...)
 [Adversity- and adversary-robust adaptive positioning systems with integrity](#) (15 April 2025)
