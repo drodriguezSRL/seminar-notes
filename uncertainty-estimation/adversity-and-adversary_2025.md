@@ -1,7 +1,7 @@
 # Adversity- and adversary-robust adaptive positioning systems with integrity
 [CADR-RAS webinars](https://www.adelaide.edu.au/defence-security/institutes-centres/cadr-ras/webinar-recordings)
 
-by Michael Mildford and Connor Malone (15 April 2025)
+by Michael Milford and Connor Malone (15 April 2025)
 
 What I hope to learn:
 1. How to verify localization estimates (under adversity: lighting, weather, etc.)? 
