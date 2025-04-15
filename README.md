@@ -18,4 +18,5 @@ They’re organized by major topics, usually based on whatever problems I’m wo
 
 ## Uncertainty estimation 
 (when to know when we don't know... / how confident are we on our latest estimates...)
+
 [Adversity- and adversary-robust adaptive positioning systems with integrity](uncertainty-estimation/adversity-and-adversary_2025.md) (15 April 2025)
