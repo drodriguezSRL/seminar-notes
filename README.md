@@ -16,6 +16,10 @@ They’re organized by major topics, usually based on whatever problems I’m wo
 - [Uncertainty estimation](./uncertainty-estimation)
 - [Localization](./localization)
 
+## Localization
+*(where are we...includes relative and absolute localization-related talks)*
+
+[Adaptive robot localization with physics informed neural networks](localization/adaptive-physics-informed_2025.md) (25 April 2025)
 
 ## Uncertainty estimation 
 *(when to know when we don't know... / how confident are we on our latest estimates...)*
