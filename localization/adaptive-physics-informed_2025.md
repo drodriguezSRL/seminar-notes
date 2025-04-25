@@ -66,8 +66,7 @@ What they are doing is more uncertainty estimation or quantificaton than explain
 
 They are using derivatives to compute the loss function (potentially using a numerical derivation method) this might introduce a lot of high frequency noise (as derivatives often do)..frequency of computation will be critical (how much might this be affected by env conditions and adaptability?)
 
-
-
+Sensor noise would be a challenge when moving outside. 
 
 
 
