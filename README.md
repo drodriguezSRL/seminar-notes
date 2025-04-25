@@ -13,8 +13,8 @@ They’re organized by major topics, usually based on whatever problems I’m wo
 >These notes are mainly meant for me, but I've made them public in case they might be helpful to someone else down the line.
 
 ## Table of topics
-- [Uncertainty estimation](#uncertainty-estimation)
-- [Localization](#localization)
+- [Uncertainty estimation](./uncertainty-estimation)
+- [Localization](./localization)
 
 
 ## Uncertainty estimation 
