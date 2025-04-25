@@ -14,6 +14,7 @@ They’re organized by major topics, usually based on whatever problems I’m wo
 
 ## Table of topics
 - [Uncertainty estimation](#uncertainty-estimation)
+- [Localization](#localization)
 
 
 ## Uncertainty estimation 
