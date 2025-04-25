@@ -30,7 +30,7 @@ On the other side, we record images for visual-inertial estimation --> use this 
 ❓ Online learning --> how much does it affect bandwidth and latency?
 
 📑 Ref paper
-- Navone et al (2023) Online learning of wheel odometry correction for mobile robots with attention-based neural netowrks (CASE 2023)
+- Navone et al (2023) [Online learning of wheel odometry correction for mobile robots with attention-based neural netowrks](https://ieeexplore.ieee.org/document/10260407) (CASE 2023)
 
 main limitations:
 - interpretability and generalization
