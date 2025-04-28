@@ -13,8 +13,13 @@ They’re organized by major topics, usually based on whatever problems I’m wo
 >These notes are mainly meant for me, but I've made them public in case they might be helpful to someone else down the line.
 
 ## Table of topics
+- [Mix topics](./mix-topics)
 - [Localization](./localization)
 - [Uncertainty estimation](./uncertainty-estimation)
+
+## Mix topics
+*(seminars and workshops covering general or mix topics)*
+[Robotics Worldwide Workshop '25](mix-topics/robotics-worldwide-workshop_2025.md) (4 April 2025)
 
 ## Localization
 *(where are we...includes relative and absolute localization-related talks)*
