@@ -59,3 +59,8 @@ Pioneering works on **global optimization in robotics**:
 - [Robust pointcloud](https://arxiv.org/abs/2001.07715) alignment by Yang, Shi, and Carlone. TRO 2020
 - Extrinsic calibration [1](https://arxiv.org/abs/1809.03554) and [2](https://arxiv.org/abs/2005.08298) by Giamou, Ma, Peretroukhin, Kelly. RAL 2019 and MFI 2020.
 
+🧠 Interesting thought from Tim at the end:
+> Field robotics is a bif of thankless endeavor. The hardest part is doing the experiments in a way that they don't come across as **anecdotal**. I want people to believe I was thorough enough in my experiments that the results and the conclusions that I drew from the experiments were definitive. This is hard. Have you designed a broad-enough set of experiments that you are gonnna get a comprehensive answer to the A-is-better-than-B kind of conclusion?
+
+In T-RO there is a specific set of papers called "Field Reports" meant for people to submit papers based on stress-testing other people's algorithms not on presenting a new algorithm. The novelty come from the way you stress-tested the algorithm(s) and what were the limitations. "Data papers" in IJRR are another avenue for this kind of works. 
+
