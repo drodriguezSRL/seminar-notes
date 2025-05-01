@@ -1,7 +1,7 @@
 # Robotics Worldwide Workshop 2025
 [MIT Robotics](https://www.youtube.com/watch?v=0OdOvkm5Xi4)
 
-Organied by Luca Carlone (MIT) and Amanda Prorok (University of Cambridge) (4 April 2025)
+Organized by Luca Carlone (MIT) and Amanda Prorok (University of Cambridge) (4 April 2025)
 
 ## Perception, mapping, and navigation
 
