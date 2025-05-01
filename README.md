@@ -21,6 +21,7 @@ They’re organized by major topics, usually based on whatever problems I’m wo
 *(seminars and workshops covering general or mix topics)*
 
 [Robotics Worldwide Workshop '25](mix-topics/robotics-worldwide-workshop_2025.md) (4 April 2025)
+
 [Robot navigation when lighting, weather, and geomtry won't cooperate](mix-topics/navigation-uncooperative-environment_2024.md)(18 October 2024)
 
 ## Localization
